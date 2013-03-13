@@ -1,0 +1,146 @@
+,,NOTES FOR USERS,,,,,
+,,,This phraseology library is an open project maintained by BIMLab.NET,,,,
+,,,This does not intends to replace or substitute any standard method of measurement,,,,
+E,,IN SITU CONCRETE / LARGE PRECAST CONCRETE,,,,,
+E20,,,FORMWORK FOR IN SITU CONCRETE,,,,
+,,,,Sides of foundations;,,,
+,,,,Sides of ground beams;,,,
+,,,,Edges of suspended slabs;,,,
+,,,,Sides of upstands;,,,
+,,,,Steps in top surfaces;,,,
+,,,,Steps in soffits;,,,
+,,,,Machine bases and plinths;,,,
+,,,,,plain vertical;,,
+,,,,,[dimensioned description];,,
+,,,,,,height > 1.00 m;,
+,m2,,,,,,
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,,,height <= 250 mm,
+,,,,,,height 250 - 500 mm,
+,,,,,,height 500 mm - 1.00 m,
+,m,,,,,,
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,,,,Soffit of slabs;,,,
+,,,,Soffit of landings [nr];,,,
+,,,,,slab thickness <= 200mm;,,
+,,,,,[and thereafter in 100 mm stages];,,
+,,,,,,horizontal;,
+,,,,,,sloping <= 15 degrees;,
+,,,,,,sloping > 15 degrees;,
+,m2,,,,,,
+,m2,,,,,,height to soffit <= 1.5 m;
+,m2,,,,,,[and thereafter in 1.50 m stages];
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,Soffit of coffered or troughed slabs;,,,
+,,,,,"[size of mould and profile, centres of mould, and slab thickness stated];",,
+,,,,,,horizontal;,
+,,,,,,sloping <= 15 degrees;,
+,,,,,,sloping > 15 degrees;,
+,m2,,,,,,
+,m2,,,,,,height to soffit <= 1.5 m;
+,m2,,,,,,[and thereafter in 1.50 m stages];
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,Top formwork;,,,
+,m2,,,,,,
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,Walls;,,,
+,,,,,,vertical;,
+,,,,,,battered;,
+,m2,,,,,,
+,m2,,,,,,height > 3.00 m above floor level;
+,m2,,,,,,interrupted;
+,m2,,,,,,"to one side only, wall thickness and background to other side [stated];"
+,m2,,,,,,left in;
+,m2,,,,,,permanent to both sides;
+,m2,,,,,,"permanent to one side only, wall thickness and background to other side [stated];"
+,,,,Beams [nr];,,,
+,,,,Beam casings [nr];,,,
+,,,,Columns [nr];,,,
+,,,,Column casings [nr];,,,
+,,,,,attached to slabs;,,
+,,,,,attached to walls;,,
+,,,,,isolated;,,
+,,,,,,"regular shaped, [shape stated];",
+,m2,,,,,,
+,m2,,,,,,height to soffit <= 1.50 m;
+,m2,,,,,,[and thereafter in 1.50 m stages];
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,,,"irregular shaped, dimensioned diagram [diagram];",
+,m,,,,,,
+,m,,,,,,height to soffit <= 1.50 m;
+,m,,,,,,[and thereafter in 1.50 m stages];
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,,,,Recesses [nr];,,,
+,,,,Nibs [nr];,,,
+,,,,Rebates [nr];,,,
+,,,,,[dimensioned description];,,
+,m,,,,,,extra over the formwork in which they occur;
+,m,,,,,,left in
+,m,,,,,,permanent;
+,,,,Extra over basic finish for formed finishes;,,,
+,,,,,slabs;,,
+,,,,,walls;,,
+,,,,,beams;,,
+,,,,,columns;,,
+,,,,,"[others, stated];",,
+,m2,,,,,,
+,,,,Wall kickers;,,,
+,,,,Suspended wall kickers;,,,
+,m,,,,,,
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,,,,"Wall ends, soffits and steps in walls;",,,
+,,,,Openings in walls;,,,
+,,,,,plain;,,
+,,,,,[dimensioned description];,,
+,,,,,,width > 1.00 m;,
+,m2,,,,,,
+,m2,,,,,,left in;
+,m2,,,,,,permanent;
+,,,,,,width <= 250 mm;,
+,,,,,,width 250 - 500 mm;,
+,,,,,,width 500 mm - 1.00 m;,
+,m,,,,,,
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,,,,Stair flights [nr];,,,
+,,,,,"[width of the stair flight stated, waist and risers described];",,
+,,,,,,"[string, width stated];",
+,,,,,,"[string, dimensioned diagram];",
+,m,,,,,,
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,m,,,,,,junction with wall;
+,,,,,[dimensioned diagram],,
+,m,,,,,,
+,m,,,,,,left in;
+,m,,,,,,permanent;
+,m,,,,,,junction with wall;
+,,,,Mortices;,,,
+,,,,Holes;,,,
+,,,,,girth <= 500 mm;,,
+,,,,,girth 500 mm - 1.00 m;,,
+,,,,,[and thereafter in 1.00 m stages];,,
+,,,,,,depth <= 250 mm;,
+,,,,,,depth 250 - 500 mm;,
+,,,,,,depth 500 mm - 1.00 m;,
+,,,,,,"depth > 1.00 m, [depth stated];",
+,no,,,,,,
+,no,,,,,,rectangular;
+,no,,,,,,circular;
+,no,,,,,,"irregular shape, [dimension description];"
+,no,,,,,,left in;
+,no,,,,,,permanent;
+,,,,Complex shapes;,,,
+,,,,,,[dimensioned description],
+,,,,,,[dimensioned diagram],
+,no,,,,,,
+,no,,,,,,left in
+,no,,,,,,permanent

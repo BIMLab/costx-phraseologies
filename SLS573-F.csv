@@ -4,11 +4,11 @@
 F,,CONCRETE WORKS,,,,
 F1,,,IN-SITU CONCRETE,,,
 F1.1,,,,Testing of concrete;,,
-,nr,,,,[detail],
+F1.1.,nr,,,,[detail],
 F1.2,,,,Foundations;,,
 ,,,,,Screed;,
-,m2,,,,,Mass concrete
-,m2,,,,,Reinforcec concrete
+F1.2.,m2,,,,,Mass concrete
+F1.2.,m2,,,,,Reinforcec concrete
 ,,,,,Column base;,
 ,,,,,Column and pier on plan <= 0.5 m2;,
 ,,,,,Column and pier on plan > 0.5 m2;,
@@ -17,34 +17,32 @@ F1.2,,,,Foundations;,,
 ,,,,,Basement walls;,
 ,,,,,Kerb;,
 ,,,,,Raft;,
-,m3,,,,,Mass concrete
-,m3,,,,,Reinforcec concrete
-F1.3,,,,Beds and slabs on ground,,
+F1.2.,m3,,,,,Mass concrete
+F1.2.,m3,,,,,Reinforcec concrete
+F1.3,,,,Beds and slabs on ground;,,
 ,,,,,Thickness <= 150mm;,
-,,,,,Thickness > 150mm - >=300mm;,
+,,,,,Thickness 150mm - 300mm;,
 ,,,,,Thickness > 300mm;,
-,m3,,,,,Mass concrete
-,m3,,,,,Reinforce concrete
-F1.4,,,,Slabs,,
+F1.3.,m3,,,,,Mass concrete
+F1.3.,m3,,,,,Reinforce concrete
+F1.4,,,,Slabs;,,
 ,,,,,Thickness <= 150mm;,
-,,,,,Thickness > 150mm - >=300mm;,
+,,,,,Thickness 150mm - 300mm;,
+,,,,,Thickness > 300mm;,
+F1.4.,m3,,,,,Mass concrete
+F1.4.,m3,,,,,Reinforced concrete
+F1.5,,,,"Slabs to slope <= 15"";",,
+,,,,,Thickness ? 150mm;,
+,,,,,Thickness 150mm - 300mm;,
+,,,,,Thickness > 300mm;,
+F1.5.,m3,,,,,
+F1.5.,m3,,,,,
+F1.6,,,,"slabs to slope > 15"";",,
+,,,,,Thickness <= 150mm;,
+,,,,,Thickness 150mm - 300mm;,
 ,,,,,Thickness > 300mm;,
 ,m3,,,,,Mass concrete
 ,m3,,,,,Reinforced concrete
-F1.5,,,,"Slabs to slope <= 15""",,
-,m3,,,Thickness <= 150mm;,,
-,m3,,,Thickness > 150mm - >=300mm;,,
-,m3,,,Thickness > 300mm;,,
-,m3,,,"Thickness <= 150mm, Reinforced concrete",,
-,m3,,,"Thickness > 150mm - >=300mm, Reinforced concrete",,
-,m3,,,"Thickness > 300mm, Reinforced concrete",,
-F1.6,,,," slabs to slope > 15""",,
-,m3,,,"Thickness <= 150mm, Mass Concrete",,
-,m3,,,"Thickness > 150mm - >=300mm, Mass Concrete",,
-,m3,,,"Thickness > 300mm, Mass Concrete",,
-,m3,,,"Thickness <= 150mm, Reinforced concrete",,
-,m3,,,"Thickness > 150mm - >=300mm, Reinforced concrete",,
-,m3,,,"Thickness > 300mm, Reinforced concrete",,
 F1.7,,,, Coffered and troughed slab,,
 ,m3,,,"Thickness <= 150mm, Mass Concrete",,
 ,m3,,,"Thickness > 150mm - >=300mm, Mass Concrete",,
